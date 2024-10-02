@@ -1,4 +1,4 @@
-# ChippyKing
+# ChippyKing beta
 ChippyKing plugin for Rust
 
 ## Chat Commands
